@@ -1,0 +1,852 @@
+*{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+.description{
+  text-align: center;
+  font-weight: 400;
+  font-size: 1.2vw;
+  margin-left: 25%;
+  margin-right: 20%;
+  margin-top: 4%;
+  line-height: 140%;
+}
+
+.description2{
+  text-align: center;
+  font-weight: 400;
+  font-size: 1.2vw;
+  margin-left: 20%;
+  margin-right: 15%;
+  margin-top: 4%;
+  line-height: 140%;
+}
+
+.linktext{
+  color: black;
+}
+
+#spacebelow{
+  height: 500px;
+}
+
+.downloadbutton{
+  background-color: #ffed00;
+  font-size: 1.3vw;
+  color: black;
+  font-weight: 900;
+  text-decoration: none;
+  padding: 15px 25px;
+  display: block;
+  text-align: center;
+  border-radius: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 14%;
+  margin-top: 50px;
+  box-shadow: 3px 5px 8px #AEAEAE;
+
+}
+
+.start{
+  color: #002945;
+}
+
+.headerlogo{
+  width: 8%;
+  display: block;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  text-align: center;
+  font-size: 5vw;
+  margin-top: 10px;
+}
+
+.sectionheadlinemobile{
+  display: none;
+}
+
+h1.headersubline{
+  font-size: 3vw;
+  margin-top: -1.5vw;
+}
+
+h2{
+  font-size: 200%;
+  margin-left: 15%;
+  margin-top: 5%;
+}
+
+.color-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 15%;
+  flex: 1;
+  margin-right: 10%
+}
+
+
+/* blue card */
+.blue-container{
+  width: 30%;
+  max-width: 360px;
+  box-shadow: 2px 2px 10px grey;
+  color: #002945;
+  text-align: center;
+}
+
+.colorcardb{
+  background-color: #002945;
+  height: 200px;
+}
+
+.colorcardinfob{
+  height: 180px;
+  padding-top: 20px;
+}
+
+/* general typo */
+
+.headline-color-container{
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+}
+
+.code-color-container{
+  font-style: normal;
+  font-size: 15px;
+  margin-top: -10px;
+  text-align: center;
+}
+
+/* yellow container */
+
+
+
+.yellow-container{
+  box-shadow: 2px 2px 10px grey;
+  color: #002945;
+  text-align: center;
+  width: 30%;
+  max-width: 360px;
+}
+
+.colorcardy{
+  background-color: #ffed00;
+  height: 200px;
+}
+
+.colorcardinfoy{
+  height: 180px;
+  padding-top: 20px;
+  box-shadow: 0px -1px 10px lightgrey;
+}
+
+
+/* white container */
+
+.white-container{
+  box-shadow: 2px 2px 10px grey;
+  color: #002945;
+  text-align: center;
+  width: 30%;
+  max-width: 360px;
+}
+
+.colorcardw{
+  background-color: #ffffff;
+  height: 200px;
+}
+
+.colorcardinfow{
+  height: 180px;
+  padding-top: 20px;
+  box-shadow: 0px -1px 11px lightgrey;
+}
+
+/* black card */
+.black-container{
+  width: 30%;
+  max-width: 360px;
+  box-shadow: 2px 2px 10px grey;
+  color: #002945;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.colorcardblack{
+  background-color: #000000;
+  height: 200px;
+}
+
+.colorcardinfoblack{
+  height: 180px;
+  padding-top: 20px;
+  }
+
+  /* dark grey card */
+  .dark-grey-container{
+    width: 30%;
+    max-width: 360px;
+    box-shadow: 2px 2px 10px grey;
+    color: #002945;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .colorcarddg{
+    background-color: #333333;
+    height: 200px;
+  }
+
+  .colorcardinfodg{
+    height: 180px;
+    padding-top: 20px;
+  }
+
+
+  /* medium grey card */
+  .medium-grey-container{
+    width: 30%;
+    max-width: 360px;
+    box-shadow: 2px 2px 10px grey;
+    color: #002945;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .colorcardmg{
+    background-color: #7f7f7f;
+    height: 200px;
+  }
+
+  .colorcardinfomg{
+    height: 180px;
+    padding-top: 20px;
+    box-shadow: 0px -1px 11px grey;
+}
+
+  /* logossection */
+
+.logosection{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 15%;
+  flex: 1;
+  margin-right: 10%;
+  text-align: center;
+}
+
+h3{
+  font-size: 25px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+  /* yellow logo */
+
+
+.logoyellowsection{
+  width: 30%;
+  max-width: 360px;
+  box-shadow: 2px 2px 10px grey;
+}
+
+.logoyellow{
+ background-color: #002945;
+ color: #002945;
+ text-align: center;
+ height: auto;
+}
+
+.yellowlogofile{
+  width: 80%;
+  max-width: 220px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.logoyellowinfo{
+  height: auto;
+  font-style: normal;
+  font-size: 17px;
+  padding-top: 5%;
+  padding-bottom: 20%;
+}
+
+/* multicolor logo */
+
+.logomulticolorsection{
+  width: 30%;
+  max-width: 360px;
+  box-shadow: 2px 2px 10px grey;
+}
+
+.logomulticolor{
+ background-color: #ffffff;
+ color: #002945;
+ text-align: center;
+ height: auto;
+}
+
+.multicolorlogofile{
+  width: 80%;
+  max-width: 220px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.logomulticolorinfo{
+  height: auto;
+  font-style: normal;
+  font-size: 17px;
+  padding-top: 5%;
+  padding-bottom: 20%;
+  box-shadow: 0px -1px 11px lightgrey;
+}
+
+
+  /* blue logo */
+
+  .logobluesection{
+    width: 30%;
+    max-width: 360px;
+    box-shadow: 2px 2px 10px grey;
+  }
+
+  .logoblue{
+   background-color: #ffed00;
+   color: #002945;
+   text-align: center;
+   height: auto;
+  }
+
+  .bluelogofile{
+    width: 80%;
+    max-width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .logoblueinfo{
+    height: auto;
+    font-style: normal;
+    font-size: 17px;
+    padding-top: 5%;
+    padding-bottom: 20%;
+    box-shadow: 0px -1px 11px lightgrey;
+  }
+
+  /* typo */
+
+.typooverview{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  margin-left: 15%;
+  margin-right: 10%;
+  padding-top: 4%;
+}
+
+.font1{
+  grid-row: 1 / 3;
+  margin-top: -20%;
+}
+
+.font2{
+  margin-left: 3%;
+}
+
+.font3{
+  margin-left: 3%;
+}
+
+.font4{
+  margin-left: 3%;
+}
+
+.font5{
+  margin-left: 3%;
+}
+
+
+/* pattern */
+
+.patternsection{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 15%;
+  flex: 1;
+  margin-right: 10%;
+  text-align: center;
+}
+
+.pattern1{
+  width: 30%;
+  max-width: 360px;
+  box-shadow: 2px 2px 10px grey;
+}
+
+.pattern2{
+  width: 30%;
+  max-width: 360px;
+  box-shadow: 2px 2px 10px grey;
+}
+
+.pattern3{
+  width: 30%;
+  max-width: 360px;
+  box-shadow: 2px 2px 10px grey;
+}
+
+/* picturesection */
+
+.picturesection{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 15%;
+  flex: 1;
+  margin-right: 10%;
+  text-align: center;
+}
+
+.bildstil1{
+  width: 30%;
+  max-width: 360px;
+  box-shadow: 2px 2px 10px grey;
+}
+
+.bildstil2{
+  width: 30%;
+  max-width: 360px;
+  box-shadow: 2px 2px 10px grey;
+}
+
+.bildstil3{
+  width: 30%;
+  max-width: 360px;
+  box-shadow: 2px 2px 10px grey;
+}
+
+/* icons section */
+
+.iconsection{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 15%;
+  flex: 1;
+  margin-right: 10%;
+  text-align: center;
+}
+
+.icon1{
+  width: 30%;
+  max-width: 360px;
+  box-shadow: 2px 2px 10px grey;
+}
+
+.icon2{
+  width: 30%;
+  max-width: 360px;
+  box-shadow: 2px 2px 10px grey;
+}
+
+.icon3{
+  width: 30%;
+  max-width: 360px;
+  box-shadow: 2px 2px 10px grey;
+}
+
+
+/* mobile */
+
+@media only screen and (max-width: 500px) {
+
+  .sectionheadline{
+    display: none;
+  }
+
+  .sectionheadlinemobile{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: -5px;
+  }
+
+  .headerlogo{
+    width: 90px;
+  }
+
+  h1.headersubline{
+    font-size: 4vw;
+    margin-top: -9px;
+  }
+
+  h2{
+    margin-left: 10%;
+    margin-top: 30px;
+    font-size: 5vw;
+    text-align: center;
+  }
+
+  .color-container{
+    display: block;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .downloadbutton{
+    font-size: 2vw;
+  }
+
+  .blue-container{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  }
+
+  .yellow-container{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  }
+
+  .white-container{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  }
+
+  .black-container{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .dark-grey-container{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .medium-grey-container{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .logosection{
+    display: block;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .logoyellowsection{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  }
+
+  .logomulticolorsection{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  }
+
+  .logobluesection{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  }
+
+  .typooverview{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    padding-top: 4%;
+    width: 70%;
+  }
+
+  .font1{
+    grid-column: 1 / 3;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: -10px;
+
+  }
+
+  .font2{
+    margin-left: 3%;
+
+  }
+
+  .font3{
+    margin-left: 3%;
+  }
+
+  .font4{
+    margin-left: 3%;
+    margin-top: -60%;
+  }
+
+  .font5{
+    margin-left: 3%;
+    margin-top: -60%;
+  }
+
+  .patternsection{
+    display: block;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .pattern1{
+    display: block;
+    width: 60%;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+  .pattern2{
+    display: block;
+    width: 60%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .pattern3{
+    display: block;
+    width: 60%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .description{
+    font-size: 13px;
+  }
+
+
+
+
+}
+
+/* medium - small screens */
+@media only screen and (max-width: 750px) and (min-width: 500px) {
+
+  h2{
+    font-size: 160%;
+    margin-left: 10%;
+  }
+
+  .downloadbutton{
+    font-size: 2vw;
+  }
+
+  .color-container{
+    margin-left: 10%;
+    margin-right: 7%;
+  }
+
+  .headline-color-container{
+    font-size: 20px;
+    }
+
+  .code-color-container{
+    font-size: 12px;
+    margin-top: -5px;
+  }
+
+  .colorcardb{
+    height: 150px;
+  }
+
+  .colorcardinfob{
+    height: 150px;
+   }
+
+  .colorcardy{
+    height: 150px;
+    }
+
+  .colorcardinfoy{
+    height: 150px;
+    }
+
+  .colorcardw{
+      height: 150px;
+    }
+
+  .colorcardinfow{
+      height: 150px;
+  }
+
+  .colorcardblack{
+    height: 150px;
+    }
+
+  .colorcardinfoblack{
+    height: 150px;
+    }
+
+  .colorcarddg{
+      height: 150px;
+    }
+
+  .colorcardinfodg{
+      height: 150px;
+  }
+  .colorcardmg{
+      height: 150px;
+  }
+
+  .colorcardinfomg{
+      height: 150px;
+  }
+
+  .logosection{
+    margin-left: 10%;
+    margin-right: 7%;
+  }
+
+  .logoyellowsection{
+    width: 100%;
+    max-width: none;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .logoyellow{
+    width: 50%;
+  }
+
+  .logoyellowinfo{
+    width: 50%;
+    padding-top: 17%;
+    font-size: 20px;
+  }
+
+  .logomulticolorsection{
+    width: 100%;
+    max-width: none;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+  }
+
+  .logomulticolor{
+    width: 50%;
+  }
+
+  .logomulticolorinfo{
+    width: 50%;
+    padding-top: 17%;
+    font-size: 20px;
+
+  }
+
+  .logobluesection{
+    width: 100%;
+    max-width: none;
+
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+  }
+
+  .logoblue{
+    width: 50%;
+  }
+
+  .logoblueinfo{
+    width: 50%;
+    padding-top: 17%;
+    font-size: 20px;
+
+  }
+
+
+  }
+
+}
+
+/* big screens */
+
+@media only screen and (min-width: 1500px) {
+  .color-container{
+    margin-right: 20%;
+    max-width: 1200px;
+    margin-left: 20%;
+  }
+
+  h1{
+    font-size: 70px;
+    margin-top: 7px;
+
+  }
+
+  h1.headersubline{
+    font-size: 45px;
+    margin-top: -32px;
+  }
+
+  h2{
+    margin-left: 20%;
+  }
+
+.logosection{
+  margin-right: 20%;
+  max-width: 1200px;
+  margin-left: 20%;
+}
+
+}
