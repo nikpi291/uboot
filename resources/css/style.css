@@ -631,8 +631,9 @@ h3{
     grid-row: 1 / 2;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    max-width: 90%;
     margin-top: -10px;
+
 
   }
 
@@ -640,12 +641,14 @@ h3{
     margin-left: 3%;
     grid-column: 1 / 2;
     grid-row: 2 / 3;
+    max-width: 90%;
   }
 
   .font3{
     margin-left: 3%;
     grid-column: 2 / 3;
     grid-row: 2 / 3;
+    max-width: 90%;
   }
 
   .font4{
@@ -653,6 +656,7 @@ h3{
     margin-top: -60%;
     grid-column: 1 / 2;
     grid-row: 3 / 4;
+    max-width: 90%;
   }
 
   .font5{
@@ -660,6 +664,7 @@ h3{
     margin-top: -60%;
     grid-column: 2 / 3;
     grid-row: 3 / 4;
+    max-width: 90%;
   }
 
   .patternsection{
