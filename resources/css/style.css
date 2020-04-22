@@ -13,16 +13,6 @@
   line-height: 140%;
 }
 
-.description2{
-  text-align: center;
-  font-weight: 400;
-  font-size: 1.2vw;
-  margin-left: 20%;
-  margin-right: 15%;
-  margin-top: 4%;
-  line-height: 140%;
-}
-
 .linktext{
   color: black;
 }
@@ -713,6 +703,8 @@ h3{
 
   .description{
     font-size: 13px;
+    margin-left: 10%;
+    margin-right: 10%;
   }
 
   .picturesection{
@@ -734,7 +726,7 @@ h3{
   .bildstil2{
     display: block;
     width: 60%;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -742,7 +734,7 @@ h3{
   .bildstil3{
     display: block;
     width: 60%;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
   }
