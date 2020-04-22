@@ -520,11 +520,11 @@ h3{
 
   h1.headersubline{
     font-size: 6vw;
-    margin-top: -12px;
+    margin-top: -13px;
   }
 
   h1.headertypo{
-    font-size: 12vw;
+    font-size: 10vw;
   }
 
   h2{
@@ -532,6 +532,7 @@ h3{
     margin-top: 30px;
     font-size: 5vw;
     text-align: center;
+    font-style: italic;
   }
 
   .color-container{
