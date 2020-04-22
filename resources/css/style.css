@@ -538,7 +538,8 @@ h3{
   }
 
   .downloadbutton{
-    font-size: 2vw;
+    font-size: 3vw;
+    width: 30%;
   }
 
   .blue-container{
