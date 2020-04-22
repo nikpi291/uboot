@@ -453,18 +453,21 @@ h3{
 
 .bildstil1{
   width: 30%;
+  height: 30%;
   max-width: 360px;
   box-shadow: 2px 2px 10px grey;
 }
 
 .bildstil2{
   width: 30%;
+  height: 30%;
   max-width: 360px;
   box-shadow: 2px 2px 10px grey;
 }
 
 .bildstil3{
   width: 30%;
+  height: 30%;
   max-width: 360px;
   box-shadow: 2px 2px 10px grey;
 }
