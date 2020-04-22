@@ -419,18 +419,21 @@ h3{
 
 .pattern1{
   width: 30%;
+  height: 30%;
   max-width: 360px;
   box-shadow: 2px 2px 10px grey;
 }
 
 .pattern2{
   width: 30%;
+  height: 30%;
   max-width: 360px;
   box-shadow: 2px 2px 10px grey;
 }
 
 .pattern3{
   width: 30%;
+  height: 30%;
   max-width: 360px;
   box-shadow: 2px 2px 10px grey;
 }
