@@ -519,8 +519,12 @@ h3{
   }
 
   h1.headersubline{
-    font-size: 4vw;
+    font-size: 6vw;
     margin-top: -9px;
+  }
+
+  h1.headertypo{
+    font-size: 8vw;
   }
 
   h2{
@@ -538,7 +542,7 @@ h3{
   }
 
   .downloadbutton{
-    font-size: 3vw;
+    font-size: 4vw;
     width: 30%;
   }
 
