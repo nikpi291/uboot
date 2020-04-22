@@ -516,8 +516,9 @@ h3{
   }
 
   .headerlogo{
-    width: 900px;
+    width: 30px;
   }
+  /*original 90 */
 
   h1.headersubline{
     font-size: 4vw;
