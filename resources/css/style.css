@@ -1,7 +1,21 @@
 *{
   font-family: 'Ubuntu', sans-serif;
 }
+/*
+.hashtag{
+  position: fixed;
+  writing-mode: vertical-lr;
+  font-size: 17vh;
+  font-weight: bolder;
+  margin-top: 0;
+  margin-bottom: auto;
+  top: -1%;
+  color: #002945;
+  margin-left: -33px;
 
+}
+
+*/
 
 .description{
   text-align: left;
@@ -849,6 +863,7 @@ h3{
     margin-left: 3%;
     margin-right: 3%;
     margin-top: 20px;
+    margin-bottom: 20px;
   }
 
 }
