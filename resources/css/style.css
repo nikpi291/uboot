@@ -4,11 +4,11 @@
 
 
 .description{
-  text-align: center;
+  text-align: left;
   font-weight: 400;
   font-size: 1.2vw;
-  margin-left: 25%;
-  margin-right: 20%;
+  margin-left: 15%;
+  margin-right: 10%;
   margin-top: 4%;
   line-height: 140%;
 }
@@ -494,6 +494,52 @@ h3{
   height: 30%;
   max-width: 360px;
   box-shadow: 2px 2px 10px grey;
+}
+
+/* layout principle section */
+
+.principlesection{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 15%;
+  flex: 1;
+  margin-right: 10%;
+  text-align: center;
+}
+
+.principles{
+  display: block;
+  width: 30%;
+  max-width: 360px;
+}
+
+.layoutpic{
+  width: 100%;
+  box-shadow: 2px 2px 10px grey;
+}
+
+.descriptionblock{
+  text-align: left;
+  font-weight: 400;
+  font-size: 1.2vw;
+  margin-top: 5%;
+  margin-bottom: 10%;
+  line-height: 140%;
+}
+
+.description2{
+  text-align: left;
+  font-weight: 400;
+  font-size: 1.2vw;
+  margin-left: 15%;
+  margin-right: 10%;
+  margin-top: 0;
+  margin-bottom: 2%;
+  line-height: 140%;
+}
+
 }
 
 
