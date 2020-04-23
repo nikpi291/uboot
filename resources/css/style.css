@@ -573,7 +573,20 @@ h3{
   max-width: 360px;
 }
 
+/* some section */
 
+.somesection{
+  margin-left: 15%;
+  margin-right: 10%;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.somepreview{
+  display: block;
+  width: 100%;
+  max-width: 1080px;
+}
 
 
 
