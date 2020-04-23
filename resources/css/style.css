@@ -32,7 +32,17 @@
 }
 
 #spacebelow{
-  height: 300px;
+  height: 150px;
+}
+
+.end{
+  display: block;
+  text-align: center;
+  font-size: 5vw;
+  font-weight: 700;
+  margin-left: auto;
+  margin-right: auto;
+  color: #002945;
 }
 
 .downloadbutton{
@@ -592,6 +602,9 @@ h3{
   display: none;
 }
 
+.somesmall{
+  display: none;
+}
 
 
 /* mobile */
@@ -927,6 +940,13 @@ h3{
 
   .somepreviewsmall{
     display: block;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+
+  .somesmall{
+    display: block;
+    font-size: 15px;
     margin-left: 3%;
     margin-right: 3%;
   }
