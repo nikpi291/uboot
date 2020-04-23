@@ -1,1 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 497.08"><defs><style>.cls-1{fill:none;}.cls-2{fill:#ffed00;stroke:#ffed00;stroke-miterlimit:10;stroke-width:6px;}.cls-3{fill:url(#Neues_Muster);}</style><pattern id="Neues_Muster" data-name="Neues Muster" width="20" height="20" patternTransform="translate(22.84 -1243.75) scale(6.8 6.68)" patternUnits="userSpaceOnUse" viewBox="0 0 20 20"><rect class="cls-1" width="20" height="20"/><line class="cls-2" x1="6" y1="54" x2="54" y2="6"/><line class="cls-2" x1="-14" y1="54" x2="34" y2="6"/><line class="cls-2" x1="-34" y1="54" x2="14" y2="6"/><line class="cls-2" x1="6" y1="34" x2="54" y2="-14"/><line class="cls-2" x1="-14" y1="34" x2="34" y2="-14"/><line class="cls-2" x1="-34" y1="34" x2="14" y2="-14"/><line class="cls-2" x1="6" y1="14" x2="54" y2="-34"/><line class="cls-2" x1="-14" y1="14" x2="34" y2="-34"/><line class="cls-2" x1="-34" y1="14" x2="14" y2="-34"/></pattern></defs><title>Element 7uboot</title><g id="Ebene_2" data-name="Ebene 2"><g id="Ebene_1-2" data-name="Ebene 1"><rect class="cls-3" width="500" height="497.08"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 497.1" style="enable-background:new 0 0 500 497.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#FFED00;stroke-width:6;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#002945;stroke-width:6;stroke-miterlimit:10;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:url(#SVGID_2_);}
+</style>
+<pattern  y="497.1" width="20" height="20" patternUnits="userSpaceOnUse" id="Neues_Muster" viewBox="36.1 -56.1 20 20" style="overflow:visible;">
+	<g>
+		<rect x="36.1" y="-56.1" class="st0" width="20" height="20"/>
+		<rect x="36.1" y="-56.1" class="st0" width="20" height="20"/>
+		<line class="st1" x1="42.1" y1="-90.1" x2="90.1" y2="-42.1"/>
+		<line class="st1" x1="22.1" y1="-90.1" x2="70.1" y2="-42.1"/>
+		<line class="st1" x1="2.1" y1="-90.1" x2="50.1" y2="-42.1"/>
+		<line class="st1" x1="42.1" y1="-70.1" x2="90.1" y2="-22.1"/>
+		<line class="st1" x1="22.1" y1="-70.1" x2="70.1" y2="-22.1"/>
+		<line class="st1" x1="2.1" y1="-70.1" x2="50.1" y2="-22.1"/>
+		<line class="st1" x1="42.1" y1="-50.1" x2="90.1" y2="-2.1"/>
+		<line class="st1" x1="22.1" y1="-50.1" x2="70.1" y2="-2.1"/>
+		<line class="st1" x1="2.1" y1="-50.1" x2="50.1" y2="-2.1"/>
+	</g>
+</pattern>
+<pattern  y="497.1" width="20" height="20" patternUnits="userSpaceOnUse" id="Neues_Muster_2" viewBox="36.1 -56.1 20 20" style="overflow:visible;">
+	<g>
+		<rect x="36.1" y="-56.1" class="st0" width="20" height="20"/>
+		<rect x="36.1" y="-56.1" class="st0" width="20" height="20"/>
+		<line class="st2" x1="42.1" y1="-90.1" x2="90.1" y2="-42.1"/>
+		<line class="st2" x1="22.1" y1="-90.1" x2="70.1" y2="-42.1"/>
+		<line class="st2" x1="2.1" y1="-90.1" x2="50.1" y2="-42.1"/>
+		<line class="st2" x1="42.1" y1="-70.1" x2="90.1" y2="-22.1"/>
+		<line class="st2" x1="22.1" y1="-70.1" x2="70.1" y2="-22.1"/>
+		<line class="st2" x1="2.1" y1="-70.1" x2="50.1" y2="-22.1"/>
+		<line class="st2" x1="42.1" y1="-50.1" x2="90.1" y2="-2.1"/>
+		<line class="st2" x1="22.1" y1="-50.1" x2="70.1" y2="-2.1"/>
+		<line class="st2" x1="2.1" y1="-50.1" x2="50.1" y2="-2.1"/>
+	</g>
+</pattern>
+<title>Element 7uboot</title>
+<g id="Ebene_2_2_">
+	<g id="Ebene_1-2_1_">
+		<pattern  id="SVGID_1_" xlink:href="#Neues_Muster" patternTransform="matrix(6.8 0 0 -6.68 45888.1367 -62896.5938)">
+		</pattern>
+		<rect class="st3" width="500" height="250"/>
+	</g>
+</g>
+<g id="Ebene_2_4_">
+	<g id="Ebene_1-2_3_">
+		<pattern  id="SVGID_2_" xlink:href="#Neues_Muster_2" patternTransform="matrix(6.8 0 0 -6.68 45888.1367 -62896.5938)">
+		</pattern>
+		<rect y="247.1" class="st4" width="500" height="250"/>
+	</g>
+</g>
+</svg>
